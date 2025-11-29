@@ -49,6 +49,7 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 ## Output Waveform
 <img width="1038" height="429" alt="image" src="https://github.com/user-attachments/assets/126abb0c-180d-4bfd-ae9e-7e52cb128d60" />
 ## Result
+
 The value of the unknown low resistance (S) was successfully measured using the Kelvin Double Bridge method.
 
 
